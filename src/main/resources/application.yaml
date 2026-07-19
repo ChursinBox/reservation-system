@@ -1,3 +1,11 @@
 spring:
   application:
     name: reservation-system
+  datasource:
+    password: root
+    username: postgres
+    url: jdbc:postgresql://localhost:5432/postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
