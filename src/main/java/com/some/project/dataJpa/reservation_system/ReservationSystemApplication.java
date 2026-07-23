@@ -8,6 +8,10 @@ public class ReservationSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReservationSystemApplication.class, args);
+        System.out.println("privet 2");
+        System.out.println("privet 2");
+        System.out.println("privet 2");
+        System.out.println("privet 2");
 	}
 
 }
