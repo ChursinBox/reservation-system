@@ -1,4 +1,4 @@
-package com.some.project.dataJpa.reservation_system;
+package com.some.project.dataJpa.reservation_system.reservations;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -21,6 +21,7 @@ import java.time.LocalDate;
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class ReservationEntity {
 
     @Id

@@ -1,4 +1,4 @@
-package com.some.project.dataJpa.reservation_system;
+package com.some.project.dataJpa.reservation_system.web;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.some.project.dataJpa.reservation_system;
+package com.some.project.dataJpa.reservation_system.reservations;
 
 import jakarta.validation.constraints.FutureOrPresent;
 import jakarta.validation.constraints.NotNull;
